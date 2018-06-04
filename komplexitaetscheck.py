@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Libraries and variables
-# -----------------------
+# ------------------------
 
 #import os
 from os import listdir
